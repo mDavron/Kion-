@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [React styled components](kion-react-website.netlify.app).
+This project was bootstrapped with [React styled components]
 <br>
+[Demo Link](http://kion-react-website.netlify.app)
+
+
 
 ## Available Scripts
 

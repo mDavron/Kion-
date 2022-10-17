@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [React styled components]
 <br>
-[Demo Link](http://kion-react-website.netlify.app)
+[Netlify Link](http://kion-react-website.netlify.app)
 
 
 
